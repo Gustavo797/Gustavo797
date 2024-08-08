@@ -10,4 +10,6 @@ Meu nome é Gustavo Alan
 Você entrar em contato comigo 📫
 alan.bueno.gustavo@escola.pr.gov.br
 
-https://media1.tenor.com/m/2ReUQeXk9psAAAAC/naruto.gif
+![](https://media1.tenor.com/m/2ReUQeXk9psAAAAC/naruto.gif)
+
+
