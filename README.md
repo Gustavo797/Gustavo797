@@ -1,5 +1,5 @@
-boas vindas ao meu perfil💙
-Meu nome é Gustavo Alan
+boas vindas ao meu perfil💙  
+Meu nome é Gustavo Alan  
 
 -Estou estudando no [Alura](https//www.alura.com.br)    
 -Estou me desenvolvendo na linguagem javaScript  
